@@ -1,0 +1,6 @@
+ld started at 10:47 PM...
+1>------ Build started: Project: MAUI_UI, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\9.0.304\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.DefaultItems.Shared.targets(190,5): error NETSDK1022: Duplicate 'Compile' items were included. The .NET SDK includes 'Compile' items from your project directory by default. You can either remove these items from your project file, or set the 'EnableDefaultCompileItems' property to 'false' if you want to explicitly include them in your project file. For more information, see https://aka.ms/sdkimplicititems. The duplicate items were: 'MainPage.xaml.cs'
+1>Done building project "MAUI_UI.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:47 PM and took 01.399 seconds ==========
